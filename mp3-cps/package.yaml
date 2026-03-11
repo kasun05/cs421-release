@@ -31,11 +31,6 @@ tests:
     source-dirs:
       - src
       - test
-    other-modules:
-      - Lib
-      - Parse
-      - Spec
-      - Tests
     ghc-options:
       - -threaded
       - -rtsopts
